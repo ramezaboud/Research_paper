@@ -1,0 +1,28 @@
+.DS_Store
+Thumbs.db
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.log
+.env
+.egg-info/
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data (uncomment if you want to ignore large datasets)
+# data/
+# *.csv
+
+# Others
+*.sqlite3
+*.db
